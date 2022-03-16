@@ -4,7 +4,6 @@ channels:
 dependencies:
   - _ipyw_jlab_nb_ext_conf=0.1.0=py37_0
   - anyio=3.5.0=py37hecd8cb5_0
-  - appnope=0.1.2=py37hecd8cb5_1001
   - argcomplete=1.12.3=pyhd3eb1b0_0
   - argon2-cffi=21.3.0=pyhd3eb1b0_0
   - argon2-cffi-bindings=21.2.0=py37hca72f7f_0
@@ -34,7 +33,6 @@ dependencies:
   - jupyterlab_pygments=0.1.2=py_0
   - jupyterlab_server=2.10.3=pyhd3eb1b0_1
   - jupyterlab_widgets=1.0.0=pyhd3eb1b0_1
-  - libcxx=12.0.0=h2f01273_0
   - libffi=3.3=hb1e8313_2
   - libsodium=1.0.18=h1de35cc_0
   - mistune=0.8.4=py37h1de35cc_0
@@ -78,6 +76,7 @@ dependencies:
   - zeromq=4.3.4=h23ab428_0
   - zipp=3.7.0=pyhd3eb1b0_0
   - zlib=1.2.11=h4dc903c_4
+  - pip
   - pip:
     - anndata==0.7.8
     - cached-property==1.5.2
