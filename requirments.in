@@ -1,5 +1,0 @@
-scanpy
-wget
-gzip
-shutil
-os
